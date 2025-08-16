@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2915550",
-        "UpdateSourceArgs": "983870",
+        "UpdateSourceArgs": "2915550",
         "UpdateSourceTarget": "{{$FullBaseDir}}",
         "UpdateSourceVersion": "public",
         "ForceDownloadPlatform": "Windows",
